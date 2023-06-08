@@ -1,0 +1,14 @@
+/* Type Selector */
+h1{
+    color: red;
+}
+
+/* class Selector */
+.class1{
+    color: blue;
+}
+
+/* id Selector */
+#id1{
+    color: green;
+}
